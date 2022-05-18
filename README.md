@@ -76,7 +76,7 @@ In the Metaverse, ensuring user rights to teleportation is fundamental to breaki
 - [Crypto news](https://cryptonews.com/ ) <br>
 - [Bitcolumnist](https://bitcolumnist.com/ ) <br>
 - [Virtual humans](https://www.virtualhumans.org/category/news ) <br>
-- [ChainNews](https://www.chainnews.com/ )*Chinese newspaper <br>
+- [ChainNews](https://www.chainnews.com/ ) Chinese Newspaper <br>
 
 ## Social Media 
 - Twitter  <br>
