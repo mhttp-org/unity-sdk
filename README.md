@@ -62,21 +62,21 @@ In the Metaverse, ensuring user rights to teleportation is fundamental to breaki
 - Vive Focus  <br>
 
 ## Newspapers
-- [coindesk] (https://www.coindesk.com/ ) <br>
-- [Bitcoin.com] (https://news.bitcoin.com/ ) <br>
-- [Cointelegraph ] ( https://cointelegraph.com) <br>
-- [Crypto Banter (social podcast) ]   (https://cryptobanter.com/ ) <br>
-- [Bitcoin Magazine ]  ( https://bitcoinmagazine.com/) <br>
-- [U.today ]   (https://u.today/ ) <br>
-- [News BTC ]   (https://www.newsbtc.com/ ) <br>
-- [AirdropAlert  ] ( https://airdropalert.com/ ) <br>
-- [Blockonomi ]  (https://blockonomi.com/ ) <br>
-- [Crypto Potato ]  ( https://cryptopotato.com/ ) <br>
-- [Hackernoon ]  ( https://hackernoon.com/ ) <br>
-- [Crypto news]    (https://cryptonews.com/ ) <br>
-- [Bitcolumnist]    (https://bitcolumnist.com/ ) <br>
-- [Virtual humans] (https://www.virtualhumans.org/category/news ) <br>
-- [ChainNews]    ( https://www.chainnews.com/ ) <br>
+- [coindesk](https://www.coindesk.com/ ) <br>
+- [Bitcoin.com](https://news.bitcoin.com/ ) <br>
+- [Cointelegraph ]( https://cointelegraph.com) <br>
+- [Crypto Banter (social podcast) ](https://cryptobanter.com/ ) <br>
+- [Bitcoin Magazine ]( https://bitcoinmagazine.com/) <br>
+- [U.today ](https://u.today/ ) <br>
+- [News BTC](https://www.newsbtc.com/ ) <br>
+- [AirdropAlert](https://airdropalert.com/) <br>
+- [Blockonomi ](https://blockonomi.com/ ) <br>
+- [Crypto Potato](https://cryptopotato.com/ ) <br>
+- [Hackernoon](https://hackernoon.com/ ) <br>
+- [Crypto news](https://cryptonews.com/ ) <br>
+- [Bitcolumnist](https://bitcolumnist.com/ ) <br>
+- [Virtual humans](https://www.virtualhumans.org/category/news ) <br>
+- [ChainNews](https://www.chainnews.com/ )*Chinese newspaper <br>
 
 ## Social Media 
 - Twitter  <br>
