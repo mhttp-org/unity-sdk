@@ -1,4 +1,4 @@
-# awesome-metaverse-101
+# Metaverse 101 for Beginners
 #### A list of Metaverse aggregation for beginners. 
 
 ## Definition of Metaverse
